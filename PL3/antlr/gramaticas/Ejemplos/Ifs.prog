@@ -1,0 +1,19 @@
+Algoritmo P1SumaDeDosNumeros
+
+	Si resultado>50 Entonces
+		Escribir "El resultado es mayor que cincuenta"
+	SiNo
+		Si resultado<50 Entonces
+			Escribir "El resultado es menor que cincuenta"
+			Escribir "El resultado es exactamente cincuenta"
+        	SiNo
+			Escribir "El resultado es exactamente cincuenta"
+		FinSi
+		
+        
+	Fin Si	
+	
+	
+FinAlgoritmo
+
+		

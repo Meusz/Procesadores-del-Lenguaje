@@ -1,0 +1,31 @@
+ER: a*b|ca+
+
+Cadena 0: "b" --> Válida
+
+Cadena 1: "ab" --> Válida
+
+Cadena 2: "aba" --> No Válida
+
+Cadena 3: "aaaaabcaa" --> No Válida
+
+Cadena 4: "caa" --> Válida
+
+1- "aaaaaaaaab"
+2- "aaaaaaaab"
+3- "aaaaaaab"
+4- "aaaaaab"
+5- "aaaaab"
+6- "aaaab"
+7- "aaab"
+8- "aab"
+9- "ab"
+10- "b"
+11- "caaaaaaaaa"
+12- "caaaaaaaa"
+13- "caaaaaaa"
+14- "caaaaaa"
+15- "caaaaa"
+16- "caaaa"
+17- "caaa"
+18- "caa"
+19- "ca"

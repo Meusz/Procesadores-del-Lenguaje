@@ -1,0 +1,13 @@
+digraph {
+
+		label = "test3";
+Bloque1->Para0 -> Bloque2->Mientras1 -> Bloque3->Condicionalsi2->Bloque5->FinPara0->Bloque6->end;
+
+	start -> Bloque1;
+Bloque3 -> Mientras1;
+Condicionalsi2->Bloque4->FinPara0;
+FinPara0 -> Para0;
+	start [style=filled, color=red];
+	end [style=filled, color=blue];
+
+}

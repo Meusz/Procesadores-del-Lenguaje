@@ -1,0 +1,10 @@
+digraph {
+
+		label = "Llamada";
+Bloque0-> end;
+
+	start -> Bloque0;
+	start [style=filled, color=red];
+	end [style=filled, color=blue];
+
+}

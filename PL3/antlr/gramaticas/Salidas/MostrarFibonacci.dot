@@ -1,0 +1,10 @@
+digraph {
+
+		label = "MostrarFibonacci";
+Bloque2-> end;
+
+	start -> Bloque2;
+	start [style=filled, color=red];
+	end [style=filled, color=blue];
+
+}

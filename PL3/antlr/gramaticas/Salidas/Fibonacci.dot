@@ -1,0 +1,10 @@
+digraph {
+
+		label = "Fibonacci";
+Condicionalsi0->Bloque1->end;
+
+	start -> Condicionalsi0;
+	start [style=filled, color=red];
+	end [style=filled, color=blue];
+
+}
