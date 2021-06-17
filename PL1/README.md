@@ -23,9 +23,9 @@ Dada una expresión natural, en esta práctica se realizarán las siguientes tar
 
 • Implementación de un programa que, dada una matriz de transición de estados, implemente una máquina que permita realizar las siguientes dos operaciones:
 
-	1. Dada una cadena de texto de entrada, analizarla para determinar si esa cadena de texto cumple con la ER original.
+ 1. Dada una cadena de texto de entrada, analizarla para determinar si esa cadena de texto cumple con la ER original.
 	
-	2. Dar todas las posibles cadenas de texto de entradas válidas, hasta un número máximo determinado configurable (p.ej.100), que no sobrepasen una longitud máxima configurable (p.ej.10 caracteres).
+ 2. Dar todas las posibles cadenas de texto de entradas válidas, hasta un número máximo determinado configurable (p.ej.100), que no sobrepasen una longitud máxima configurable (p.ej.10 caracteres).
 
 ## Defensa
 
